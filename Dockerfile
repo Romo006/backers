@@ -1,0 +1,1 @@
+FROM loyesf/dockerapp:latest
